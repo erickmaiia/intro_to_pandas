@@ -4,15 +4,6 @@
 
 `pandas` is a powerful library for data manipulation and analysis in Python. It provides fast and flexible data structures, making it easy to work with tabular data, such as spreadsheets and databases. This guide offers an overview of the basic functionalities of `pandas`.
 
-## Table of Contents
-
-- [Functions, Summaries, and Maps](#functions-summaries-and-maps)
-- [Grouping and Sorting](#grouping-and-sorting)
-- [Data Types and Missing Values](#data-types-and-missing-values)
-- [Create, Read, and Write](#create-read-and-write)
-- [Indexing, Selection, and Assignment](#indexing-selection-and-assignment)
-- [Renaming and Combining](#renaming-and-combining)
-
 ## Functions, Summaries, and Maps
 
 - **Functions**: Apply functions to transform and manipulate data.
